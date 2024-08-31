@@ -1,16 +1,14 @@
-## Hi there 👋
+<h3 align="left">Languages and Tools</h3>
+<p align="left"> 
+  <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="react" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="32" height="32"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="32" height="32"/>  
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="32" height="32"/> 
+  <img src="https://www.svgrepo.com/show/448221/docker.svg" alt="docker" width="32" height="32"/> 
+  <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" width="32" height="32"/> 
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="32" height="32"/> 
+</p>
 
-<!--
-**Kawaichi0228/Kawaichi0228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Products</h3>
+https://kawaichi0228.com/product
