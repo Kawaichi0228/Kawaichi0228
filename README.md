@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="left">Products</h3>
-https://kawaichi0228.com/product
+https://kawaichi0228.com
 
 <h3 align="left">Blog</h3>
 https://kawaichiblog.com
