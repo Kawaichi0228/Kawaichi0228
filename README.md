@@ -1,6 +1,6 @@
 <h3 align="left">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,ts,express,graphql,aws,terraform,docker,githubactions,ai&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,ts,express,graphql,go,py,aws,terraform,docker,githubactions,ai,ps,notion&perline=8)](https://skillicons.dev)
 
 <h3 align="left">Products</h3>
 https://kawaichi0228.com
