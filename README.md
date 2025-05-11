@@ -66,7 +66,7 @@ https://kawaichi0228.com/design
 <h3 align="left">Drums</h3>
 https://drums.kawaichi0228.com
 
-<h3 align="left">Blog Articles Ranked 👑#1 on Google</h3>
+<h3 align="left">Blog Articles 👑Ranked #1 on Google</h3>
 
 - "vscode 型 表示" (2024/5)
   
