@@ -6,6 +6,8 @@ I love TypeScript and AWS🥰
 
 <h3 align="left">Products</h3>
 
+https://kawaichi0228.com/product
+
 - [**KAWAICHI Portfolio**](https://kawaichi0228.com/)
 
   <a href="https://kawaichi0228.com/">
