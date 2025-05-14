@@ -11,7 +11,7 @@ https://kawaichi0228.com/product
 - [**KAWAICHI Portfolio**](https://kawaichi0228.com/)
 
   <a href="https://kawaichi0228.com/">
-    <img src="assets/kawaichi-portfolio.webp" alt="KAWAICHI Portfolio" width="200">
+    <img src="assets/kawaichi-portfolio.webp" alt="KAWAICHI Portfolio" width="320">
   </a>
 
   - Storybook: https://ui.kawaichi0228.com
@@ -22,7 +22,7 @@ https://kawaichi0228.com/product
 - [**かわいちのエンジニアぶろぐ！**](https://kawaichiblog.com/)
 
   <a href="https://kawaichiblog.com/">
-    <img src="assets/kawaichi-blog.webp" alt="KAWAICHI Blog" width="200">
+    <img src="assets/kawaichi-blog.webp" alt="KAWAICHI Blog" width="320">
   </a>
   
   - Technical Stack: https://kawaichi0228.com/product/kawaichiblog
@@ -32,7 +32,7 @@ https://kawaichi0228.com/product
 - [**トークストック**](https://www.talkstock.jp/) ***close**
   
   <a href="https://www.talkstock.jp/">
-    <img src="assets/talkstock.webp" alt="TalkStock" width="200">
+    <img src="assets/talkstock.webp" alt="TalkStock" width="320">
   </a>
 
   - Technical Stack: https://kawaichi0228.com/product/talkstock
@@ -42,7 +42,7 @@ https://kawaichi0228.com/product
 - [**FitScreenWindow(OSS)**](https://fitscreenwindow.com/)
 
   <a href="https://fitscreenwindow.com/">
-    <img src="assets/fitscreenwindow.webp" alt="FitScreenWindow" width="200">
+    <img src="assets/fitscreenwindow.webp" alt="FitScreenWindow" width="320">
   </a>
 
   - GitHub: https://github.com/Kawaichi0228/FitScreenWindow/
@@ -53,7 +53,7 @@ https://kawaichi0228.com/product
 - [**所得拡大促進税制エクセルソフト**](https://github.com/Kawaichi0228/shotokukakudaiexcel-main/) ***close**
 
   <a href="https://github.com/Kawaichi0228/shotokukakudaiexcel-main/">
-    <img src="assets/shotoku.webp" alt="所得拡大促進税制エクセルソフト" width="200">
+    <img src="assets/shotoku.webp" alt="所得拡大促進税制エクセルソフト" width="320">
   </a>
   
   - Style guides: https://github.com/Kawaichi0228/shotokukakudaiexcel-main/blob/master/styleguide/README.md
