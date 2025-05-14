@@ -16,7 +16,7 @@ https://kawaichi0228.com/product
 
   - Storybook: https://ui.kawaichi0228.com
   - Technical Stack: https://kawaichi0228.com/product/portfolio
-    - React,TypeScript,SCSS,emotion,Atomic Design,Storybook,Terraform,Illustrator,SendGrid,reCAPTCHA(v3),GoogleAnalytics(GA4) ...
+    - React,TypeScript,SCSS,emotion,Atomic Design,Storybook,Terraform,Illustrator,SendGrid,reCAPTCHA(v3),GoogleAnalytics(GA4) etc.
     - [AWS]API Gateway,Lambda,SSM,CloudWatch,SNS etc.
 
 - [**かわいちのエンジニアぶろぐ！**](https://kawaichiblog.com/)
@@ -26,7 +26,7 @@ https://kawaichi0228.com/product
   </a>
   
   - Technical Stack: https://kawaichi0228.com/product/kawaichiblog
-    - Next.js,TypeScript,SCSS,TailwindCSS,GraphQL,Jamstack,microCMS,Terraform,Illustrator,SendGrid,reCAPTCHA(v3),GoogleTagManager,GoogleAnalytics(GA4) ...
+    - Next.js,TypeScript,SCSS,TailwindCSS,GraphQL,Jamstack,microCMS,Terraform,Illustrator,SendGrid,reCAPTCHA(v3),GoogleTagManager,GoogleAnalytics(GA4) etc.
     - [AWS]Amplify,AppSync,Lambda,DynamoDB,EventBridge,CloudWatch,SNS etc.
 
 - [**トークストック**](https://www.talkstock.jp/) ***close**
@@ -36,7 +36,7 @@ https://kawaichi0228.com/product
   </a>
 
   - Technical Stack: https://kawaichi0228.com/product/talkstock
-    - Next.js,TypeScript,MUI,bulletproof-react,Echo(Golang),REST API,OpenAI API(Chat Completions API),Docker,Terraform,GitHub Actions,Illustrator,SendGrid,GoogleTagManager,GoogleAnalytics(GA4) ...
+    - Next.js,TypeScript,MUI,bulletproof-react,Echo(Golang),REST API,OpenAI API(Chat Completions API),Docker,Terraform,GitHub Actions,Illustrator,SendGrid,GoogleTagManager,GoogleAnalytics(GA4) etc.
     - [AWS]ECS Fargate,Aurora RDS,S3,CloudFront,Lambda@Edge,Cognito,Route53,ACM,SSM,CloudWatch etc.
   
 - [**FitScreenWindow(OSS)**](https://fitscreenwindow.com/)
@@ -47,7 +47,7 @@ https://kawaichi0228.com/product
 
   - GitHub: https://github.com/Kawaichi0228/FitScreenWindow/
   - Technical Stack: https://kawaichi0228.com/product/fitscreenwindow
-    - Python3,Qt,Qt Creator,NSIS,venv,Vue.js,SCSS,BEM,Illustrator,GitHub Pages ...
+    - Python3,Qt,Qt Creator,NSIS,venv,Vue.js,SCSS,BEM,Illustrator,GitHub Pages etc.
   - LT(2022/05): https://www.docswell.com/s/Kawaichi0228/51JE1L-2023-12-03-222909
 
 - [**所得拡大促進税制エクセルソフト**](https://github.com/Kawaichi0228/shotokukakudaiexcel-main/) ***close**
